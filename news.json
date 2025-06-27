@@ -1,9 +1,14 @@
 {
   "news": [
     {
-      "title": "Test",
+      "title": "Test2",
       "date": "27/06/2025",
       "content": "Testing Testing."
+    },
+    {
+      "title": "Test",
+      "date": "24/06/2025",
+      "content": "Hawk."
     }
   ]
 }
