@@ -1,19 +1,9 @@
 {
   "news": [
     {
-      "title": "Lorem Ipsum",
+      "title": "What's This?",
       "date": "27/06/2025",
-      "content": "This is a test"
-    },
-    {
-      "title": "Test2",
-      "date": "26/06/2025",
-      "content": "Hawk2 aaa."
-    },
-    {
-      "title": "Test3",
-      "date": "25/06/2025",
-      "content": "Hawk3."
+      "content": "This is a very early version of <INSERT NAME HERE>. It may contain bugs, so dont expect a ''Triple A'' game."
     }
   ]
 }
