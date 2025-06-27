@@ -1,14 +1,19 @@
 {
   "news": [
     {
-      "title": "Test2",
+      "title": "Test1",
       "date": "27/06/2025",
-      "content": "Testing Testing."
+      "content": "Hawk1."
     },
     {
-      "title": "Test",
-      "date": "24/06/2025",
-      "content": "Hawk."
+      "title": "Test2",
+      "date": "26/06/2025",
+      "content": "Hawk2."
+    },
+    {
+      "title": "Test3",
+      "date": "25/06/2025",
+      "content": "Hawk3."
     }
   ]
 }
